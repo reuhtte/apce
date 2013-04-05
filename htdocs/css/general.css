@@ -1,0 +1,116 @@
+/* 
+    Document   : general.css
+    Created on : 4/04/2013, 07:36:11 PM
+    Author     : reuhtte
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body {
+    margin: 0;
+    font-family: Arial, serif;
+    font-size: 12px;
+    background-image: url("/images/main-bg.png");
+    background-repeat: repeat;
+}
+
+body a {
+    text-decoration: none;
+}
+
+#header {
+    background-image: url("/images/header_bg.gif");
+    background-repeat: repeat-x;
+    background-position: left top;
+    height: 131px;
+    text-align: center;
+}
+
+
+#h_main_text {
+    font-family: 'Gilda Display', serif;
+    color: white;
+    font-size: 2.5em;
+    text-align: left;
+}
+
+#h_submain_text {
+    font-family: 'Gilda Display', serif;
+    color: #999;
+    font-size: 1.8em;
+    text-align: left;
+}
+
+#h_main_menu {
+    text-align: right;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+}
+
+#h_main_menu ul {
+    list-style: none;
+    float: right;
+}
+
+#h_main_menu ul li {
+    float: left;
+    margin-left: 17px;
+    font-size: 1.2em;
+}
+
+#h_main_menu ul li a {
+    text-decoration: none;
+    cursor: auto;
+    color: white;
+}
+
+#h_main_menu ul li a:hover {
+    color: #dd4814;
+}
+
+#content {
+    text-align: center;
+}
+
+#subcontent {
+    background-color: white;
+    width: 960px;
+    display: inline-block;
+}
+
+.info_panel {
+    width: 270px; 
+    height: 230px;
+    margin: 25px 23px;
+    display: inline-block;
+    position: relative;
+    float: left;
+    overflow: hidden;
+}
+
+.info_panel h3.panel_title {
+    font-family: 'Ubuntu', sans-serif;
+    color: #484848;
+    text-shadow: 1px 1px 1px #CCC;
+    padding: 0 3px;
+}
+
+.slider {
+    position: absolute;
+    background-color: rgba(0,0,0,0.8);
+    bottom: 0;
+    /*float: left;*/
+    width: 270px;
+    line-height: 50px;
+    vertical-align: bottom;
+}
+
+.slider a {
+    color: #dd4814;
+    bottom: 3px;
+    /*position: absolute;*/
+}
+
+.slider a:hover {
+    color: #dd4814;
+}
