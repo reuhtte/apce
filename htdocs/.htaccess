@@ -1,0 +1,23 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^somos/ somos.php
+RewriteRule ^somos somos.php
+
+RewriteRule ^servicios/ servicios.php
+RewriteRule ^servicios servicios.php
+
+RewriteRule ^clientes/ clientes.php
+RewriteRule ^clientes clientes.php
+
+RewriteRule ^contacto/ contacto.php
+RewriteRule ^contacto contacto.php
+
+
+#RewriteRule . /index.php [L]
+
+</IfModule>
