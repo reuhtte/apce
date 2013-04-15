@@ -17,6 +17,9 @@ RewriteRule ^clientes clientes.php
 RewriteRule ^contacto/ contacto.php
 RewriteRule ^contacto contacto.php
 
+RewriteRule ^vbarcenas/ vbarcenas.php
+RewriteRule ^vbarcenas vbarcenas.php
+
 
 #RewriteRule . /index.php [L]
 

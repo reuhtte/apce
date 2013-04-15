@@ -136,3 +136,11 @@ body a {
     color: #777;
     font-weight: bold;
 }
+
+.simple_table {
+    
+}
+
+.simple_table td {
+    padding: 4px 7px;
+}

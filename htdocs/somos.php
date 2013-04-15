@@ -1,8 +1,11 @@
+<?php
+require_once dirname(__FILE__).'/config.inc.php'
+?>
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <base href="http://barcenasyasociados.com.mx/" />
+        <base href="<?php echo BASE_URL; ?>" />
         <!--<link rel="icon" href="images/sys/favicon.ico" sizes="16x16" type="image/ico" />-->
         <link rel="stylesheet" type="text/css" href="css/general.css"/>
         <link rel="stylesheet" type="text/css" href="css/smoothness/jquery-ui-1.9.2.custom.min.css"/>
@@ -71,6 +74,15 @@
                         <p>
                             Lealtad, &Eacute;tica, Responsabilidad, Transparencia, Empat&iacute;a, Profesionalismo, y
                             Trabajo en Equipo.
+                        </p>
+                        <br/>
+                        <h2 style="color: #dd4814">Directorio</h2>
+                        <p>
+                            CPC Victor Manuel Barcenas Paredes
+                            <br/>
+                            Director General
+                            <br/>
+                            <a href="/vbarcenas/" style="text-decoration: none; color: #dd4814;">Ver CV >></a>
                         </p>
                     </div>
                 </div>
