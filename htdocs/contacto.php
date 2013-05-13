@@ -20,6 +20,7 @@ require_once dirname(__FILE__).'/config.inc.php'
         
     </head>
     <body>
+        <?php require_once dirname(__FILE__).'/tracking.php'; ?>
         <div id="maincontainer">
             <!-- header -->
             <div id="header">
@@ -42,6 +43,9 @@ require_once dirname(__FILE__).'/config.inc.php'
                             </li>
                             <li>
                                 <a href="clientes/">Nuestros Clientes</a>
+                            </li>
+                            <li>
+                                <a href="links/">Links</a>
                             </li>
                             <li>
                                 <a href="contacto/">Cont&aacute;ctanos</a>

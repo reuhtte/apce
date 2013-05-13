@@ -20,6 +20,7 @@ require_once dirname(__FILE__).'/config.inc.php'
         
     </head>
     <body>
+        <?php require_once dirname(__FILE__).'/tracking.php'; ?>
         <div id="maincontainer">
             <!-- header -->
             <div id="header">
@@ -42,6 +43,9 @@ require_once dirname(__FILE__).'/config.inc.php'
                             </li>
                             <li>
                                 <a href="clientes/">Nuestros Clientes</a>
+                            </li>
+                            <li>
+                                <a href="links/">Links</a>
                             </li>
                             <li>
                                 <a href="contacto/">Cont&aacute;ctanos</a>
@@ -78,11 +82,32 @@ require_once dirname(__FILE__).'/config.inc.php'
                         <br/>
                         <h2 style="color: #dd4814">Directorio</h2>
                         <p>
-                            CPC Victor Manuel Barcenas Paredes
+                            CPC Victor Manuel Bárcenas Paredes
                             <br/>
                             Director General
                             <br/>
                             <a href="/vbarcenas/" style="text-decoration: none; color: #dd4814;">Ver CV >></a>
+                        </p>
+                        <p>
+                            Adriana Anouk Bárcenas García
+                            <br/>
+                            Socia
+                            <br/>
+                            Gerencia de Operaciones
+                        </p>
+                        <p>
+                            Cesar Guzmán
+                            <br/>
+                            Socio
+                            <br/>
+                            Gerencia de Impuestos y Contabilidad
+                        </p>
+                        <p>
+                            Alfredo Salvador Hernandez Prudencio
+                            <br/>
+                            Socio
+                            <br/>
+                            Gerencia de Auditoria
                         </p>
                     </div>
                 </div>

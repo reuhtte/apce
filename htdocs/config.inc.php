@@ -3,4 +3,7 @@
 /** SYSTEM URL */
 define('BASE_URL','http://barcenasyasociados.com.mx/');
 
+/** GOOGLE ANALYTICS */
+define('GOOGLE_ANALYTICS', TRUE);
+
 ?>

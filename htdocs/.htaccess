@@ -14,6 +14,9 @@ RewriteRule ^servicios servicios.php
 RewriteRule ^clientes/ clientes.php
 RewriteRule ^clientes clientes.php
 
+RewriteRule ^links/ links.php
+RewriteRule ^links links.php
+
 RewriteRule ^contacto/ contacto.php
 RewriteRule ^contacto contacto.php
 
