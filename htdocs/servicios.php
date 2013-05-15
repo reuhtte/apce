@@ -81,6 +81,7 @@ require_once dirname(__FILE__).'/config.inc.php'
                                 <li>Contable</li>
                                 <li>Administrativa</li>
                                 <li>Planeación Estratégica</li>
+                                <li>Defensoría en impuestos</li>
                             </ul>
                         </p>
                         <br/><br/>
@@ -118,14 +119,6 @@ require_once dirname(__FILE__).'/config.inc.php'
                         <h3 style="color: #666;">Auditoria a las Contribuciones Locales para el Distrito Federal, (Impuesto Predial, Derechos por Suministro de Agua e Impuesto sobre N&oacute;minas)</h3>
                         
                         <h3 style="color: #666;">Auditoria y Dictamen sobre N&oacute;minas del Estado de M&eacute;xico</h3>
-                        
-                        <h3 style="color: #666;">Auditoria para fines Financieros</h3>
-                        
-                        <h3 style="color: #666;">Auditoria para fines Fiscales</h3>
-                        
-                        <h3 style="color: #666;">Auditoria del Seguro Social e Infonavit</h3>
-                        
-                        <h3 style="color: #666;">Contabilidad</h3>
                         
                     </div>
                     
