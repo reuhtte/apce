@@ -34,7 +34,7 @@ body a {
 }
 
 #h_main_text {
-    font-size: 2.0em;
+    font-size: 1.5em;
     font-family: 'Bevan', cursive;
     color: white;
 
@@ -44,13 +44,13 @@ body a {
 #h_submain_text {
     font-family: 'Droid Sans', sans-serif;
     color: #ddd;
-    font-size: 1.6em;
+    font-size: 1.2em;
     margin-right: 17px;
 }
 
 #h_main_menu {
     float: left;
-    width: 650px;
+    width: 570px;
     margin-top: 40px;
     height: 105px;
     background-color: rgb(227,95,95);
@@ -94,8 +94,7 @@ body a {
 #h_main_menu ul li a:hover {
     color: white;
 }
-
-
+    
 #content {
     text-align: center;
 }
