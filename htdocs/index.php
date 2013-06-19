@@ -64,20 +64,20 @@ require_once dirname(__FILE__).'/config.inc.php'
                         Calidad
                     </div>
                     
-                    <div style="background-color: white; border: 0; margin: 0; padding: 0;">
+                    <div style="background-color: white; border: 0; margin: 0; padding: 0; font-family: 'Droid Sans', sans-serif;">
                         <div style="display: table-cell;">
                             <img src="/images/gallery/galeria1.png"/>
                         </div>
-                        <div style="display: table-cell; padding: 10px; vertical-align: top;">
-                            <h3 style="color: #666;">Pol&iacute;tica de Calidad:</h3>
-                            <p>
+                        <div style="display: table-cell; padding: 30px; vertical-align: top; position: relative;">
+                            <h3 style="color: #222;">Pol&iacute;tica de Calidad:</h3>
+                            <p style="color: #555;">
                                 La organizaci&oacute;n y su Personal nos comprometemos a
                                 satisfacer y superar los requerimientos de nuestros Clientes,
                                 constituy&eacute;ndonos en un Socio Estrat&eacute;gico de sus Negocios.
                             </p>
 
-                            <h3 style="color: #666;">Objetivos de Calidad:</h3>
-                            <p>
+                            <h3 style="color: #222;">Objetivos de Calidad:</h3>
+                            <p style="color: #555;">
                                 Contribuir al crecimiento de los Negocios de nuestros Clientes.
                                 <br/>
                                 <br/>
@@ -87,6 +87,10 @@ require_once dirname(__FILE__).'/config.inc.php'
                                 <br/>
                                 Lograr la Solidez Financiera de la Organizaci&oacute;n
                             </p>
+                            <div style="position: absolute; bottom: 20px; right: 20px;"
+                                 527 282 609 505 647
+                                <img src="/images/next_button.png"/>
+                            </div>
                         </div>
                     </div>
                     
