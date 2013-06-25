@@ -8,6 +8,9 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^somos/ somos.php
 RewriteRule ^somos somos.php
 
+RewriteRule ^directorio/ directorio.php
+RewriteRule ^directorio directorio.php
+
 RewriteRule ^servicios/ servicios.php
 RewriteRule ^servicios servicios.php
 
