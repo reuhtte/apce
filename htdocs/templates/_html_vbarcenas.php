@@ -65,7 +65,7 @@
                         </tr>
                         <tr>
                             <td>Registro Contador Público Certificado</td>
-                            <td>AMCPDF03263</td>
+                            <td>AMCPDF04353 Vigencia: 01/01/13-12/31/13</td>
                         </tr>
                     </table>
                 </div>
