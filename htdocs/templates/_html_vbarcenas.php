@@ -138,7 +138,7 @@
                         <tr>
                             <td>Despacho C.P. Rafael Moro Gonzalez </td>
                             <td>Contador General</td>
-                            <td>de 1964 a 1966</td>
+                            <td>de 1964 a 1965</td>
                         </tr>
                         <tr>
                             <td>Tabacalera Mexicana S.A. </td>
