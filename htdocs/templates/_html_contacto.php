@@ -38,6 +38,36 @@
                 </div>
                 <div style="margin-top: 20px;"></div>
                 <iframe width="960" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.mx/maps?q=19.482776,-99.239995&amp;num=1&amp;t=m&amp;ie=UTF8&amp;source=embed&amp;z=14&amp;ll=19.482625,-99.239663&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com.mx/maps?q=19.482776,-99.239995&amp;num=1&amp;t=m&amp;ie=UTF8&amp;source=embed&amp;z=14&amp;ll=19.482625,-99.239663" style="color:#0000FF;text-align:left">Ver mapa más grande</a></small>
+                <div style="margin-top: 20px;"></div>
+                <div style="display: table-cell; width: 475px; padding: 30px; background-color: white;">
+                    <div style="display: table-cell; vertical-align: middle;">
+                        <img src="/images/location_icon.png" style="vertical-align: middle;"/>
+                    </div>
+                    <div style="display: table-cell; vertical-align: middle; padding-left: 20px;">
+                        Oficinas ubicadas en Paseo de Aztecas 173
+                        <br/>
+                        Jardines Bugambilias
+                        <br/>
+                        CP 28978 Villa de Alvarez, Colima
+                    </div>
+                </div>
+                <div style="display: table-cell; width: 10px;">
+                    &nbsp;
+                </div>
+                <div style="display: table-cell; width: 475px; padding: 30px;  background-color: white;">
+                    <div style="display: table-cell; vertical-align: middle;">
+                        <img src="/images/phone_icon.png" style="vertical-align: middle;"/>
+                    </div>
+                    <div style="display: table-cell; vertical-align: middle; padding-left: 20px;">
+                        Tels: 
+                        <br/>
+                        Directo: 
+                        <br/>
+                        Celular: 
+                        <br/>
+                        Correo: victor.hernandez@barcenasyasociados.com.mx
+                    </div>
+                </div>
             </div>
         </div>
     </div>

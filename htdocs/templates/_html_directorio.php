@@ -12,7 +12,9 @@
                     <div style="display: inline-block; background-image: url('/images/header.png'); background-repeat: repeat; height: 130px; width: 330px;"></div>
                     <div style="display: inline-block; background: white; height: 370px; width: 330px;">&nbsp;</div>
                     <div style="display: inline-block; width: 240px; top: 40px; left: 45px; height: 420px; position: absolute; text-align: center;">
-                        <div style="height: 340px; background-color: white;"></div>
+                        <div style="height: 340px; background-color: white;">
+                            <img src="/images/directory/b01.jpg" width="230px" style="border: 5px solid white;"/>
+                        </div>
                         <div style="">
                             <p style="font-family: 'Bevan', cursive; font-size: 1.1em; color: rgb(112,36,36);">
                                 <span style="color: rgb(227,95,95);">CPC</span> VICTOR MANUEL
@@ -29,10 +31,53 @@
                         </a>
                     </div>
                 </div>
-                <div style="display: table-cell; width: 450px; text-align: right;">
-                    <div style="display: inline-block; background-image: url('/images/cvsocio.png'); background-repeat: no-repeat; width: 300px; height: 200px; float: right;"></div>
-                    <div style="display: inline-block; background-image: url('/images/cvsocio.png'); background-repeat: no-repeat; width: 300px; height: 200px; float: right;"></div>
-                    <div style="display: inline-block; background-image: url('/images/cvsocio.png'); background-repeat: no-repeat; width: 300px; height: 200px; float: right;"></div>
+                <div style="display: table-cell; width: 100px; text-align: right;">
+                    
+                </div>
+                <div style="display: table-cell; width: 560px; text-align: right;">
+                    <div style="display: table-cell; width: 200px; background-image: url('/images/header.png'); background-repeat: repeat;">
+                        <img src="/images/directory/b02.jpg" width="220px" style="border: 5px solid white; margin: 10px 30px;"/>
+                    </div>
+                    <div style="display: table-cell; width: 400px; background-color: white; text-align: center; vertical-align: middle;">
+                        <p style="font-family: 'Bevan', cursive; font-size: 1.1em; color: rgb(112,36,36);">
+                            ADRIANA ANOUK <br/>
+                            BARCENAS GARCÍA<br/>
+                            <span style="color: rgb(227,95,95);">Socia</span>
+                        </p>
+                        <p style="font-family: 'Droid Sans', sans-serif; font-size: 1em; color: rgb(120,128,136);">
+                            Gerencia de <br/>
+                            Administración y Sistemas
+                        </p>
+                    </div>
+                    <div style="height: 20px;">&nbsp;</div>
+                    <div style="display: table-cell; width: 200px; background-image: url('/images/header.png'); background-repeat: repeat;">
+                        <img src="/images/directory/b03.jpg" width="220px" style="border: 5px solid white; margin: 10px 30px;"/>
+                    </div>
+                    <div style="display: table-cell; width: 400px; background-color: white; text-align: center; vertical-align: middle;">
+                        <p style="font-family: 'Bevan', cursive; font-size: 1.1em; color: rgb(112,36,36);">
+                            CÉSAR GUZMÁN<br/>
+                            <span style="color: rgb(227,95,95);">Socio</span>
+                        </p>
+                        <p style="font-family: 'Droid Sans', sans-serif; font-size: 1em; color: rgb(120,128,136);">
+                            Gerencia de <br/>
+                            Impuestos y Contabilidad
+                        </p>
+                    </div>
+                    <div style="height: 20px;">&nbsp;</div>
+                    <div style="display: table-cell; width: 200px; background-image: url('/images/header.png'); background-repeat: repeat;">
+                        <img src="/images/directory/b04.jpg" width="220px" style="border: 5px solid white; margin: 10px 30px;"/>
+                    </div>
+                    <div style="display: table-cell; width: 400px; background-color: white; text-align: center; vertical-align: middle;">
+                        <p style="font-family: 'Bevan', cursive; font-size: 1.1em; color: rgb(112,36,36);">
+                            ALFREDO SALVADOR <br/>
+                            HERNÁNDEZ PRUDENCIO<br/>
+                            <span style="color: rgb(227,95,95);">Socio</span>
+                        </p>
+                        <p style="font-family: 'Droid Sans', sans-serif; font-size: 1em; color: rgb(120,128,136);">
+                            Gerencia de <br/>
+                            Auditoria
+                        </p>
+                    </div>
                 </div>
             </div>
             

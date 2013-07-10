@@ -16,8 +16,11 @@
             <li class="mm_element mm_margin_left <?php echo $menu_selected == 'servicios' ? 'mm_selected' : ''; ?>">
                 <a href="servicios/">Servicios</a>
             </li>
+            <li class="mm_element mm_margin_left <?php echo $menu_selected == 'alianzas' ? 'mm_selected' : ''; ?>">
+                <a href="alianzas/">Alianzas</a>
+            </li>
             <li class="mm_element mm_margin_left <?php echo $menu_selected == 'clientes' ? 'mm_selected' : ''; ?>">
-                <a href="clientes/">Nuestros Clientes</a>
+                <a href="clientes/">Clientes</a>
             </li>
             <li class="mm_element mm_margin_left <?php echo $menu_selected == 'links' ? 'mm_selected' : ''; ?>">
                 <a href="links/">Links</a>
