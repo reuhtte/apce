@@ -13,7 +13,7 @@
                     <div style="display: inline-block; background: white; height: 370px; width: 330px;">&nbsp;</div>
                     <div style="display: inline-block; width: 240px; top: 40px; left: 45px; height: 420px; position: absolute; text-align: center;">
                         <div style="height: 340px; background-color: white;">
-                            <img src="/images/directory/b01.jpg" width="230px" style="border: 5px solid white;"/>
+                            <img src="/images/directory/c01.jpg" width="230px" style="border: 5px solid white;"/>
                         </div>
                         <div style="">
                             <p style="font-family: 'Bevan', cursive; font-size: 1.1em; color: rgb(112,36,36);">
@@ -36,7 +36,7 @@
                 </div>
                 <div style="display: table-cell; width: 560px; text-align: right;">
                     <div style="display: table-cell; width: 200px; background-image: url('/images/header.png'); background-repeat: repeat;">
-                        <img src="/images/directory/b02.jpg" width="220px" style="border: 5px solid white; margin: 10px 30px;"/>
+                        <img src="/images/directory/c02.jpg" width="220px" style="border: 5px solid white; margin: 10px 30px;"/>
                     </div>
                     <div style="display: table-cell; width: 400px; background-color: white; text-align: center; vertical-align: middle;">
                         <p style="font-family: 'Bevan', cursive; font-size: 1.1em; color: rgb(112,36,36);">
@@ -46,26 +46,12 @@
                         </p>
                         <p style="font-family: 'Droid Sans', sans-serif; font-size: 1em; color: rgb(120,128,136);">
                             Gerencia de <br/>
-                            Administración y Sistemas
+                            Administración y Calidad
                         </p>
                     </div>
                     <div style="height: 20px;">&nbsp;</div>
                     <div style="display: table-cell; width: 200px; background-image: url('/images/header.png'); background-repeat: repeat;">
-                        <img src="/images/directory/b03.jpg" width="220px" style="border: 5px solid white; margin: 10px 30px;"/>
-                    </div>
-                    <div style="display: table-cell; width: 400px; background-color: white; text-align: center; vertical-align: middle;">
-                        <p style="font-family: 'Bevan', cursive; font-size: 1.1em; color: rgb(112,36,36);">
-                            CÉSAR GUZMÁN<br/>
-                            <span style="color: rgb(227,95,95);">Socio</span>
-                        </p>
-                        <p style="font-family: 'Droid Sans', sans-serif; font-size: 1em; color: rgb(120,128,136);">
-                            Gerencia de <br/>
-                            Impuestos y Contabilidad
-                        </p>
-                    </div>
-                    <div style="height: 20px;">&nbsp;</div>
-                    <div style="display: table-cell; width: 200px; background-image: url('/images/header.png'); background-repeat: repeat;">
-                        <img src="/images/directory/b04.jpg" width="220px" style="border: 5px solid white; margin: 10px 30px;"/>
+                        <img src="/images/directory/c04.jpg" width="220px" style="border: 5px solid white; margin: 10px 30px;"/>
                     </div>
                     <div style="display: table-cell; width: 400px; background-color: white; text-align: center; vertical-align: middle;">
                         <p style="font-family: 'Bevan', cursive; font-size: 1.1em; color: rgb(112,36,36);">
@@ -78,6 +64,21 @@
                             Auditoria
                         </p>
                     </div>
+                    <div style="height: 20px;">&nbsp;</div>
+                    <div style="display: table-cell; width: 200px; background-image: url('/images/header.png'); background-repeat: repeat;">
+                        <img src="/images/directory/c03.jpg" width="220px" style="border: 5px solid white; margin: 10px 30px;"/>
+                    </div>
+                    <div style="display: table-cell; width: 400px; background-color: white; text-align: center; vertical-align: middle;">
+                        <p style="font-family: 'Bevan', cursive; font-size: 1.1em; color: rgb(112,36,36);">
+                            CÉSAR GUZMÁN<br/>
+                            <span style="color: rgb(227,95,95);">Socio</span>
+                        </p>
+                        <p style="font-family: 'Droid Sans', sans-serif; font-size: 1em; color: rgb(120,128,136);">
+                            Gerencia de <br/>
+                            Consultoria y Contabilidad
+                        </p>
+                    </div>
+                    
                 </div>
             </div>
             

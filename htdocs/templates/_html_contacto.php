@@ -34,6 +34,8 @@
                         Directo: 5360-7326
                         <br/>
                         Celular: 04455-1352-7673
+                        <br/>
+                        Correo: victor.barcenas@barcenasyasociados.com.mx
                     </div>
                 </div>
                 <div style="margin-top: 20px;"></div>
@@ -44,7 +46,7 @@
                         <img src="/images/location_icon.png" style="vertical-align: middle;"/>
                     </div>
                     <div style="display: table-cell; vertical-align: middle; padding-left: 20px;">
-                        Oficinas ubicadas en Paseo de Aztecas 173
+                        Oficinas ubicadas en Paseo de Azaleas 173
                         <br/>
                         Jardines Bugambilias
                         <br/>
@@ -59,11 +61,9 @@
                         <img src="/images/phone_icon.png" style="vertical-align: middle;"/>
                     </div>
                     <div style="display: table-cell; vertical-align: middle; padding-left: 20px;">
-                        Tels: 
+                        Tels: 312-311-6044
                         <br/>
-                        Directo: 
-                        <br/>
-                        Celular: 
+                        Celular: 312-1152136
                         <br/>
                         Correo: victor.hernandez@barcenasyasociados.com.mx
                     </div>
