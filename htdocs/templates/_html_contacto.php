@@ -61,6 +61,8 @@
                         <img src="/images/phone_icon.png" style="vertical-align: middle;"/>
                     </div>
                     <div style="display: table-cell; vertical-align: middle; padding-left: 20px;">
+                        C.P. y L.R.C. Victor Hugo Hernandez Prudencio
+                        <br />
                         Tels: 312-311-6044
                         <br/>
                         Celular: 312-1152136

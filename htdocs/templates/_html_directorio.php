@@ -40,7 +40,7 @@
                     </div>
                     <div style="display: table-cell; width: 400px; background-color: white; text-align: center; vertical-align: middle;">
                         <p style="font-family: 'Bevan', cursive; font-size: 1.1em; color: rgb(112,36,36);">
-                            ADRIANA ANOUK <br/>
+                            LIC. ADRIANA ANOUK <br/>
                             BARCENAS GARCÍA<br/>
                             <span style="color: rgb(227,95,95);">Socia</span>
                         </p>
@@ -55,7 +55,7 @@
                     </div>
                     <div style="display: table-cell; width: 400px; background-color: white; text-align: center; vertical-align: middle;">
                         <p style="font-family: 'Bevan', cursive; font-size: 1.1em; color: rgb(112,36,36);">
-                            ALFREDO SALVADOR <br/>
+                            C.P. ALFREDO SALVADOR <br/>
                             HERNÁNDEZ PRUDENCIO<br/>
                             <span style="color: rgb(227,95,95);">Socio</span>
                         </p>
@@ -70,7 +70,7 @@
                     </div>
                     <div style="display: table-cell; width: 400px; background-color: white; text-align: center; vertical-align: middle;">
                         <p style="font-family: 'Bevan', cursive; font-size: 1.1em; color: rgb(112,36,36);">
-                            CÉSAR GUZMÁN<br/>
+                            C.P. CÉSAR <br /> GUZMÁN CÓRDOBA<br/>
                             <span style="color: rgb(227,95,95);">Socio</span>
                         </p>
                         <p style="font-family: 'Droid Sans', sans-serif; font-size: 1em; color: rgb(120,128,136);">
