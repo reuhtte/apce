@@ -32,9 +32,13 @@
                         Lealtad, &Eacute;tica, Responsabilidad, Transparencia, Empat&iacute;a, Profesionalismo, y
                         Trabajo en Equipo.
                     </p>
-                    <div style="position: absolute; bottom: 20px; right: 20px;">
+                    <div class="hide" id="hide1" style="position: absolute; bottom: 35px; right: 20px;  display:none;">
+                        Directorio
+                    </div>                                        
+                    <div style="position: absolute; bottom: 15px; right: 20px;">
                         <a href="directorio/">
-                            <img src="/images/next_button.png"/>
+                            <img  onmouseover="showItem('#hide1')" onmouseout="hideItem('#hide1')" 
+                                  src="/images/next_button.png"/>
                         </a>
                     </div>
                 </div>

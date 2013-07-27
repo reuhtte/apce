@@ -5,7 +5,14 @@
     <div id="content">
         <div id="subcontent">
             <div class="page_header">
-                Resumen
+                <span> Resumen </span> 
+                <span style="float:right">
+                    <a href="directorio">
+                        <img onmouseover="showItemRight('hide1')" onmouseout="hideItemRight('hide1')"
+                             height="20px" style="cursor:pointer;" src="/images/prev_button.png"/ >
+                    </a>
+                </span>
+                <span id="hide1" style="float:right; margin-right: -8px; margin-top:3px;"></span>
             </div>
 
             <div class="page_content" style="background: none;">

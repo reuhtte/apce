@@ -13,7 +13,7 @@
                     <div class="info_panel">
                         <img src="/images/sat1.png" width="261px"/>
                         <div class="slider">
-                            <a href="http://www.sat.gob.mx/" target="_blank">Servicio de Administraci&oacute;n Tributaria ></a>
+                            <a style="color:white" href="http://www.sat.gob.mx/" target="_blank">Servicio de Administraci&oacute;n Tributaria ></a>
                         </div>
                     </div>
                     <div style="display: table-cell;">
@@ -21,14 +21,14 @@
                             <img src="/images/leyes1.png" width="126px"/>
 
                             <div class="slider">
-                                <a href="http://www.diputados.gob.mx/LeyesBiblio/index.htm" target="_blank">Leyes Federales ></a>
+                                <a style="color:white" href="http://www.diputados.gob.mx/LeyesBiblio/index.htm" target="_blank">Leyes Federales ></a>
                             </div>
                         </div>
                         <div class="info_panel">
                             <img src="/images/diario1.png" width="126px"/>
 
                             <div class="slider">
-                                <a href="http://www.dof.gob.mx/" target="_blank">Diario Oficial ></a>
+                                <a style="color:white" href="http://www.dof.gob.mx/" target="_blank">Diario Oficial ></a>
                             </div>
                         </div>
                     </div>
@@ -37,7 +37,7 @@
                             <img src="/images/comision1.png" width="124px"/>
 
                             <div class="slider">
-                                <a href="http://www.conasami.gob.mx/" target="_blank">Comisión Nacional ></a>
+                                <a style="color:white" href="http://www.conasami.gob.mx/" target="_blank">Comisión Nacional ></a>                                
                             </div>
                         </div>
                     </div>

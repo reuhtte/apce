@@ -75,11 +75,6 @@
                     <h3>Auditoria a las Contribuciones Locales para el Distrito Federal, (Impuesto Predial, Derechos por Suministro de Agua e Impuesto sobre N&oacute;minas)</h3>
 
                     <h3>Auditoria y Dictamen sobre N&oacute;minas del Estado de M&eacute;xico</h3>
-                    <div style="position: absolute; bottom: 20px; right: 20px;">
-                        <a href="directorio/">
-                            <img src="/images/next_button.png"/>
-                        </a>
-                    </div>
                 </div>
             </div>
             

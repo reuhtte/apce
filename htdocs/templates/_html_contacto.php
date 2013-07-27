@@ -51,7 +51,7 @@
                         Jardines Bugambilias
                         <br/>
                         CP 28978 Villa de Alvarez, Colima
-                    </div>
+                    </div>                    
                 </div>
                 <div style="display: table-cell; width: 10px;">
                     &nbsp;
@@ -70,6 +70,8 @@
                         Correo: victor.hernandez@barcenasyasociados.com.mx
                     </div>
                 </div>
+                <div style="margin-top: 20px;"></div>
+                <iframe width="960" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.mx/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=19.277803,-103.731736&amp;sll=19.320099,-99.152184&amp;sspn=0.689443,1.234589&amp;ie=UTF8&amp;t=m&amp;z=14&amp;ll=19.277803,-103.731736&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com.mx/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=19.277803,-103.731736&amp;sll=19.320099,-99.152184&amp;sspn=0.689443,1.234589&amp;ie=UTF8&amp;t=m&amp;z=14&amp;ll=19.277803,-103.731736" style="color:#0000FF;text-align:left">View Larger Map</a></small>
             </div>
         </div>
     </div>

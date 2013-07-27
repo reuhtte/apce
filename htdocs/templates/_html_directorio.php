@@ -5,7 +5,14 @@
     <div id="content">
         <div id="subcontent">
             <div class="page_header">
-                Directorio
+                <span>Directorio</span>                
+                <span style="float:right;">
+                    <a href="somos">
+                        <img onmouseover="showItemRight('hide1')" onmouseout="hideItemRight('hide1')"
+                             style="cursor:pointer;" height="20px" src="/images/prev_button.png"/ >
+                    </a>
+                </span>  
+                <span id="hide1" style="float:right; margin-right: -8px; margin-top:3px;"></span>
             </div>
             <div class="page_content" style="background: none;">
                 <div style="display: table-cell; width: 330px; text-align: center; position: relative; vertical-align: top;">
@@ -25,9 +32,12 @@
                             </p>
                         </div>
                     </div>
+                    <div class="hide" id="hideCV" style="position: absolute; bottom: 120px; right: 20px;  display:none;">
+                        C.V.
+                    </div>                        
                     <div style="position: absolute; bottom: 100px; right: 20px;">
                         <a href="vbarcenas/">
-                            <img src="/images/next_button.png"/>
+                            <img onmouseover="showItem('#hideCV')" onmouseout="hideItem('#hideCV')" src="/images/next_button.png"/>
                         </a>
                     </div>
                 </div>

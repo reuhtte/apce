@@ -220,16 +220,34 @@ body a {
     line-height: 50px;
     vertical-align: bottom;
     text-align: center;
-}
-
-.slider a {
-    color: white;
-    bottom: 3px;
+    color: black;
 }
 
 .slider a:hover {
     font-weight: bold;
 }
+
+.hide {
+    height: 10px;
+    background-color:rgb(130,130,145);
+    padding:5px;
+    color:rgb(240,240,240);
+    font-weight: bold;
+    font-family: 'Droid Sans', sans-serif;
+    font-size: .8em;
+    display: none;
+}
+
+.hideRight {
+    height: 9px;
+    background-color:rgb(130,130,145);
+    padding:5px;
+    color:rgb(240,240,240);
+    font-weight: bold;
+    font-family: 'Droid Sans', sans-serif;
+    font-size: .5em;
+}
+
 /*
 #footer {
     width: 960px;

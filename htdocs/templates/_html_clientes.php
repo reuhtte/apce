@@ -62,7 +62,7 @@
                         </p>
                     </div>
                     <div id="construccion" class="tab_content">
-                        <h3>Contrucción</h2>
+                        <h3>Construcción</h2>
                         <!-- content -->
                         <p>
                             Residencial Cuitzeo 54<br/>
