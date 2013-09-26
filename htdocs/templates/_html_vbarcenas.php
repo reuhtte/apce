@@ -5,7 +5,7 @@
     <div id="content">
         <div id="subcontent">
             <div class="page_header">
-                <span> Resumen </span> 
+                <span> Sinopsis </span> 
                 <span style="float:right">
                     <a href="directorio">
                         <img onmouseover="showItemRight('hide1')" onmouseout="hideItemRight('hide1')"
@@ -84,7 +84,7 @@
                 </div>
                 <div style="margin-top: 20px;"></div>
                 <div style="background: white; padding: 30px;">
-                    <span style="font-family: 'Bevan', cursive; font-size: 1.1em; color: rgb(227,95,95);">EXPERIENCIA PROFESIONAL:</span>
+                    <span style="font-family: 'Bevan', cursive; font-size: 1.1em; color: rgb(227,95,95);">EXPERIENCIA LABORAL:</span>
 
                     <table class="simple_table">
                         <tr>

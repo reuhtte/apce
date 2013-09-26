@@ -11,7 +11,7 @@
         <div style="display: table-cell; padding: 30px; vertical-align: top; position: relative;">
             <h3>Pol&iacute;tica de Calidad:</h3>
             <p>
-                La organizaci&oacute;n y su Personal nos comprometemos a
+                En nuestra organizaci&oacute;n y su Personal nos comprometemos a
                 satisfacer y superar los requerimientos de nuestros Clientes,
                 constituy&eacute;ndonos en un Socio Estrat&eacute;gico de sus Negocios.
             </p>
@@ -21,8 +21,8 @@
                 Contribuir al crecimiento de los Negocios de nuestros Clientes.
                 <br/>
                 <br/>
-                Lograr la concientizaci&oacute;n del personal de la importancia de
-                trabajar con calidad y responsabilidad.
+                Lograr la concientizaci&oacute;n del personal sobre la importancia de
+                trabajar en equipo con calidad y responsabilidad.
                 <br/>
                 <br/>
                 Lograr la Solidez Financiera de la Organizaci&oacute;n

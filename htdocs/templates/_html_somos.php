@@ -11,13 +11,15 @@
             <div class="page_content">
                 <div style="display: table-cell; padding: 30px; vertical-align: top; position: relative;">
                     <p>
+                        CPC Victor Barcenas y Asociados SC
+                        
                         Somos una firma de Contadores Públicos Certificados que proporciona servicios
                         integrales de Auditoria y Consultoría Fiscal, Contable y Financiera.
                     </p>
                     <h3>Visi&oacute;n</h3>
                     <p>
                         Consolidar a la Organizaci&oacute;n como l&iacute;der en su &aacute;mbito de competencia,
-                        con capacidad profesional cada vez m&aacute;s s&oacute;lida que satisfaga y supere los
+                        con capacidad profesional, actualizada cada vez m&aacute;s s&oacute;lida que satisfaga y supere los
                         requerimientos del Cliente.
                     </p>
 

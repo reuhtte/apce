@@ -1,11 +1,11 @@
-<?php $title = 'Alianzas Profesionales'; ?>
+<?php $title = 'Alianzas Laborales'; ?>
 <?php $menu_selected = 'alianzas'; ?>
 
 <?php ob_start(); ?>
     <div id="content">
         <div id="subcontent">
             <div class="page_header">
-                Alianzas Profesionales
+                Alianzas Laborales
             </div>
 
             <div class="page_content">

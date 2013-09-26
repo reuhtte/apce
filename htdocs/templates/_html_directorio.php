@@ -23,11 +23,11 @@
                             <img src="/images/directory/c01.jpg" width="230px" style="border: 5px solid white;"/>
                         </div>
                         <div style="">
-                            <p style="font-family: 'Bevan', cursive; font-size: 1.1em; color: rgb(112,36,36);">
-                                <span style="color: rgb(227,95,95);">CPC</span> VICTOR MANUEL
+                            <p style="font-family: 'Trykker', serif; font-size: 1.1em; color: rgb(112,36,36);">
+                                CPC VICTOR MANUEL
                                 BARCENAS PAREDES
                             </p>
-                            <p style="font-family: 'Droid Sans', sans-serif; font-size: 1em; color: rgb(120,128,136);">
+                            <p style="font-family: 'Trykker', serif; font-size: 1em; color: rgb(120,128,136);">
                                 Director General
                             </p>
                         </div>
@@ -49,12 +49,12 @@
                         <img src="/images/directory/c02.jpg" width="220px" style="border: 5px solid white; margin: 10px 30px;"/>
                     </div>
                     <div style="display: table-cell; width: 400px; background-color: white; text-align: center; vertical-align: middle;">
-                        <p style="font-family: 'Bevan', cursive; font-size: 1.1em; color: rgb(112,36,36);">
+                        <p style="font-family: 'Trykker', serif; font-size: 1.1em; color: rgb(112,36,36);">
                             LIC. ADRIANA ANOUK <br/>
                             BARCENAS GARCÍA<br/>
                             <span style="color: rgb(227,95,95);">Socia</span>
                         </p>
-                        <p style="font-family: 'Droid Sans', sans-serif; font-size: 1em; color: rgb(120,128,136);">
+                        <p style="font-family: 'Trykker', serif; font-size: 1em; color: rgb(120,128,136);">
                             Gerencia de <br/>
                             Administración y Calidad
                         </p>
@@ -64,31 +64,17 @@
                         <img src="/images/directory/c04.jpg" width="220px" style="border: 5px solid white; margin: 10px 30px;"/>
                     </div>
                     <div style="display: table-cell; width: 400px; background-color: white; text-align: center; vertical-align: middle;">
-                        <p style="font-family: 'Bevan', cursive; font-size: 1.1em; color: rgb(112,36,36);">
+                        <p style="font-family: 'Trykker', serif; font-size: 1.1em; color: rgb(112,36,36);">
                             C.P. ALFREDO SALVADOR <br/>
                             HERNÁNDEZ PRUDENCIO<br/>
                             <span style="color: rgb(227,95,95);">Socio</span>
                         </p>
-                        <p style="font-family: 'Droid Sans', sans-serif; font-size: 1em; color: rgb(120,128,136);">
+                        <p style="font-family: 'Trykker', serif; font-size: 1em; color: rgb(120,128,136);">
                             Gerencia de <br/>
-                            Auditoria
+                            Auditoria y Consultoria
                         </p>
                     </div>
                     <div style="height: 20px;">&nbsp;</div>
-                    <div style="display: table-cell; width: 200px; background-image: url('/images/header.png'); background-repeat: repeat;">
-                        <img src="/images/directory/c03.jpg" width="220px" style="border: 5px solid white; margin: 10px 30px;"/>
-                    </div>
-                    <div style="display: table-cell; width: 400px; background-color: white; text-align: center; vertical-align: middle;">
-                        <p style="font-family: 'Bevan', cursive; font-size: 1.1em; color: rgb(112,36,36);">
-                            C.P. CÉSAR <br /> GUZMÁN CÓRDOBA<br/>
-                            <span style="color: rgb(227,95,95);">Socio</span>
-                        </p>
-                        <p style="font-family: 'Droid Sans', sans-serif; font-size: 1em; color: rgb(120,128,136);">
-                            Gerencia de <br/>
-                            Consultoria y Contabilidad
-                        </p>
-                    </div>
-                    
                 </div>
             </div>
             
