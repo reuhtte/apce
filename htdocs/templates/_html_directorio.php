@@ -75,6 +75,9 @@
                         </p>
                     </div>
                     <div style="height: 20px;">&nbsp;</div>
+                    <div style="text-align: center;">
+                        <img src="/images/logo_amcp_2.jpg" style="text-align: center; height: 118px;"/>
+                    </div>
                 </div>
             </div>
             

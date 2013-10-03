@@ -4,7 +4,7 @@
             <div id="h_main_text">CPC V&iacute;ctor Barcenas Y Asociados S.C.</div>
             <div id="h_submain_text">Contadores P&uacute;blicos Certificados</div>
         </div>
-        <img src="/images/logo2.png" width="120px" style="margin-top: -65px; margin-right: 10px;"/>
+        <img src="/images/logo_vb.png" width="120px" style="margin-top: -65px; margin-right: 10px;"/>
     </div>
     <div id="h_main_menu">
         <ul>

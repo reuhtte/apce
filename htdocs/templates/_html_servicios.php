@@ -18,12 +18,8 @@
                                     <li>Fiscales</li>
                                     <li>Financieros</li>
                                     <li>Seguro Social e Infonavit</li>
-                                    <li>Impuestos Locales:
-                                        <ul style="list-style: none;">
-                                            <li>Estado de México y</li>
-                                            <li>Distrito Federal</li>
-                                        </ul>
-                                    </li>
+                                    <li>Enajenación de Acciones</li>
+                                    <li>Impuestos Locales</li>
                                 </ul>
                             </p>
                         </div>
@@ -34,8 +30,12 @@
                                     <li>Fiscal</li>
                                     <li>Contable</li>
                                     <li>Administrativa</li>
+                                    <li>Precios de Transferencia</li>
                                     <li>Planeación Estratégica</li>
                                     <li>Defensoría en impuestos</li>
+                                    <li>Revisión de actividades vulnerables (Ley antilavado)</li>
+                                    <li>Auditoria de compra de empresas</li>
+                                    <li>Presupuestos</li>
                                 </ul>
                             </p>
                         </div>

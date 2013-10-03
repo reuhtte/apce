@@ -11,7 +11,7 @@
         <div style="display: table-cell; padding: 30px; vertical-align: top; position: relative;">
             <h3>Pol&iacute;tica de Calidad:</h3>
             <p>
-                En nuestra organizaci&oacute;n y su Personal nos comprometemos a
+                En nuestra organizaci&oacute;n nos comprometemos a
                 satisfacer y superar los requerimientos de nuestros Clientes,
                 constituy&eacute;ndonos en un Socio Estrat&eacute;gico de sus Negocios.
             </p>
