@@ -33,7 +33,7 @@
                         <br/>
                         Directo: 5360-7326
                         <br/>
-                        Celular: 04455-1352-7673
+                        Celular: 04455-1950-7121
                         <br/>
                         Correo: victor.barcenas@barcenasyasociados.com.mx
                     </div>
