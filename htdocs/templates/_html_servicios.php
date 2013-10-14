@@ -34,6 +34,7 @@
                                     <li>Planeación Estratégica</li>
                                     <li>Defensoría en impuestos</li>
                                     <li>Revisión de actividades vulnerables (Ley antilavado)</li>
+                                    <li>Discrepancia Fiscal</li>
                                     <li>Auditoria de compra de empresas</li>
                                     <li>Presupuestos</li>
                                 </ul>
