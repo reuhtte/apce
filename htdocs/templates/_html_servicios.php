@@ -11,34 +11,112 @@
             <div class="page_content">
                 <div style="display: inline-block; padding: 30px; vertical-align: top; position: relative;">
                     <div>
-                        <div style="display: table-cell; width: 475px;">
-                            <h3>Dict&aacute;menes</h3>
-                            <p>
-                                <ul style="list-style: none; padding-left: 0;">
-                                    <li>Fiscales</li>
-                                    <li>Financieros</li>
-                                    <li>Seguro Social e Infonavit</li>
-                                    <li>Enajenación de Acciones</li>
-                                    <li>Impuestos Locales</li>
-                                </ul>
-                            </p>
+                        <div style="display: table-cell; padding: 2px 5px; width: 300px;">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th style="text-align: center;">Dict&aacute;menes</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Fiscales</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Financieros</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Seguro Social e Infonavit</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Enajenación de Acciones</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Impuestos Locales</td>
+                                    </tr>
+                                </tbody>
+                            </table>
                         </div>
-                        <div style="display: table-cell; width: 475px;">
-                            <h3>Consultor&iacute;a en &Aacute;reas Financieras</h3>
+                        <div style="display: table-cell; padding: 2px 5px; width: 300px;">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th style="text-align: center;">Consultor&iacute;a en &Aacute;reas Financieras</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Fiscal</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Contable</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Administrativa</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Precios de Transferencia</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Planeación Estratégica</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Defensoría en impuestos</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Revisión de actividades vulnerables (Ley antilavado)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Discrepancia Fiscal</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Auditoria de compra de empresas</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Presupuestos</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div style="display: table-cell;padding: 1px 8px; width: 300px;">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th style="text-align: center;">Sistemas</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Desarrollo de sistemas a la medida</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Implementación de infraestructura basada en Linux</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Soporte e Implementación de modelos de telefonía IP</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Consultaria en infraestructura</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Implementación de soluciones (CMSs, CRMs, Helpdesk, ERPs, etc) en nube y en sitio</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Diseño y administración de sitios web</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+<!--                            <h3>Sistemas</h3>
                             <p>
                                 <ul style="list-style: none; padding-left: 0;">
-                                    <li>Fiscal</li>
-                                    <li>Contable</li>
-                                    <li>Administrativa</li>
-                                    <li>Precios de Transferencia</li>
-                                    <li>Planeación Estratégica</li>
-                                    <li>Defensoría en impuestos</li>
-                                    <li>Revisión de actividades vulnerables (Ley antilavado)</li>
-                                    <li>Discrepancia Fiscal</li>
-                                    <li>Auditoria de compra de empresas</li>
-                                    <li>Presupuestos</li>
+                                    <li>Desarrollo de sistemas a la medida</li>
+                                    <li>Implementación de infraestructura basada en Linux</li>
+                                    <li>Soporte e Implementación de modelos de telefonía IP</li>
+                                    <li>Consultaria en infraestructura</li>
+                                    <li>Implementación de soluciones (CMSs, CRMs, Helpdesk, ERPs, etc) en nube y en sitio</li>
+                                    <li>Diseño y administración de sitios web</li>
                                 </ul>
-                            </p>
+                            </p>-->
                         </div>
                     </div>
                     <br/><br/>
